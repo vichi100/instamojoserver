@@ -1,0 +1,2 @@
+TO START SERVER:
+    vichis-Air-2b74:express_instamojo_backend vichi$ nodemon start
